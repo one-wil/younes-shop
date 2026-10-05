@@ -1,233 +1,6 @@
 {
-  "PRODUCTS": {
-    "1789476986031": {
-      "name": "لباس أطفال تركي",
-      "price": 300,
-      "description": "",
-      "category": "",
-      "stock": 0,
-      "featured": false,
-      "availableColors": [
-        "أحمر",
-        "أزرق"
-      ],
-      "availableSizes": [
-        "S",
-        "M"
-      ],
-      "ageRanges": [],
-      "colorImages": {
-        "أحمر": {
-          "images": [
-            "https://raw.githubusercontent.com/one-wil/dawn-dz/main/images/product-1789476986031-أحمر-1789477096937-modal3.jpg"
-          ],
-          "ageRanges": [
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "S"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "M"
-            }
-          ]
-        },
-        "أزرق": {
-          "images": [
-            "https://raw.githubusercontent.com/one-wil/dawn-dz/main/images/product-1789476986031-أزرق-1789477125433-modal4.jpg"
-          ],
-          "ageRanges": [
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "S"
-            },
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "M"
-            }
-          ]
-        }
-      },
-      "sizeGuide": {
-        "enabled": false,
-        "guide": {}
-      },
-      "createdAt": "2026-09-15T12:56:26.031Z",
-      "image": "https://raw.githubusercontent.com/one-wil/dawn-dz/main/images/product-1789476986031-1789477052559-modal3.jpg",
-      "updatedAt": "2026-09-15T12:58:09.766Z"
-    },
-    "1789581423689": {
-      "name": " Ensemble polo",
-      "price": 4000,
-      "description": " منتج عال الجودة ، بتفاصيل جدابة",
-      "category": "",
-      "stock": 0,
-      "featured": false,
-      "availableColors": [
-        "Black-olive Geen",
-        "Beige - Black",
-        "Gray-black"
-      ],
-      "availableSizes": [
-        "S",
-        "M",
-        "L"
-      ],
-      "ageRanges": [],
-      "colorImages": {
-        "Black-olive Geen": {
-          "images": [
-            "https://raw.githubusercontent.com/one-wil/vol-shop/main/images/product-1789581423689-Black-olive%20Geen-1789581763856-Messenger-creation-BFECA40B-57E0-4596-BD25-4F9D45BA3562.jpeg"
-          ],
-          "ageRanges": [
-            {
-              "ageFrom": "",
-              "ageTo": "",
-              "size": "S"
-            },
-            {
-              "ageFrom": "",
-              "ageTo": "",
-              "size": "M"
-            },
-            {
-              "ageFrom": "",
-              "ageTo": "",
-              "size": "L"
-            }
-          ]
-        },
-        "Beige - Black": {
-          "images": [
-            "https://raw.githubusercontent.com/one-wil/vol-shop/main/images/product-1789581423689-Beige%20-%20Black-1789581940027-Messenger-creation-810CA979-D104-4003-AC53-8D1BA722871C.jpeg"
-          ],
-          "ageRanges": [
-            {
-              "ageFrom": "",
-              "ageTo": "",
-              "size": "S"
-            },
-            {
-              "ageFrom": "",
-              "ageTo": "",
-              "size": "M"
-            },
-            {
-              "ageFrom": "",
-              "ageTo": "",
-              "size": "L"
-            }
-          ]
-        },
-        "Gray-black": {
-          "images": [
-            "https://raw.githubusercontent.com/one-wil/vol-shop/main/images/product-1789581423689-Gray-black-1789581994305-Messenger-creation-25516B0A-A522-42F1-9AB6-57299C553605.jpeg"
-          ],
-          "ageRanges": [
-            {
-              "ageFrom": "",
-              "ageTo": "",
-              "size": "S"
-            },
-            {
-              "ageFrom": "",
-              "ageTo": "",
-              "size": "M"
-            },
-            {
-              "ageFrom": "",
-              "ageTo": "",
-              "size": "L"
-            }
-          ]
-        }
-      },
-      "sizeGuide": {
-        "enabled": true,
-        "guide": {
-          "S": {
-            "heightFrom": 0,
-            "heightTo": 0,
-            "weightFrom": 0,
-            "weightTo": 0
-          },
-          "M": {
-            "heightFrom": 0,
-            "heightTo": 0,
-            "weightFrom": 0,
-            "weightTo": 0
-          },
-          "L": {
-            "heightFrom": 0,
-            "heightTo": 0,
-            "weightFrom": 0,
-            "weightTo": 0
-          }
-        }
-      },
-      "createdAt": "2026-09-16T17:57:03.689Z",
-      "image": "https://raw.githubusercontent.com/one-wil/vol-shop/main/images/product-1789581423689-1789581668031-Messenger-creation-810CA979-D104-4003-AC53-8D1BA722871C.jpeg",
-      "updatedAt": "2026-09-16T18:08:38.128Z"
-    },
-    "1789652772129": {
-      "name": "فستان بنات",
-      "price": 50000,
-      "description": "",
-      "category": "",
-      "stock": 0,
-      "featured": false,
-      "availableColors": [
-        "أبيض",
-        "أسود"
-      ],
-      "availableSizes": [
-        "S",
-        "M"
-      ],
-      "ageRanges": [],
-      "colorImages": {
-        "أبيض": {
-          "images": [
-            "https://raw.githubusercontent.com/one-wil/vol-shop/main/images/product-1789652772129-أبيض-1789653498662-1000028225.jpg"
-          ],
-          "ageRanges": [
-            {
-              "ageFrom": "13",
-              "ageTo": "2",
-              "size": "S"
-            },
-            {
-              "ageFrom": "13",
-              "ageTo": "ب5",
-              "size": "M"
-            }
-          ]
-        },
-        "أسود": {
-          "images": [
-            "https://raw.githubusercontent.com/one-wil/vol-shop/main/images/product-1789652772129-أسود-1789653582687-1000028231.jpg"
-          ],
-          "ageRanges": []
-        }
-      },
-      "sizeGuide": {
-        "enabled": true,
-        "guide": {}
-      },
-      "createdAt": "2026-09-17T13:46:12.129Z",
-      "image": "https://raw.githubusercontent.com/one-wil/vol-shop/main/images/product-1789652772129-1789652819808-1000028231.jpg",
-      "updatedAt": "2026-09-17T13:59:57.655Z"
-    }
-  },
-  "PRODUCT_ORDER": {
-    "1789476986031": 2,
-    "1789581423689": 1,
-    "1789652772129": 3
-  },
+  "PRODUCTS": {},
+  "PRODUCT_ORDER": {},
   "DELIVERY_PRICES": {
     "01 - أدرار": {
       "home": 1100,
@@ -462,7 +235,6 @@
       "desk": 400
     }
   },
-  "COMMUNES_SOURCE": "https://raw.githubusercontent.com/DZBuild-com/dzship/main/data/communes.json",
   "FREE_DELIVERY": {
     "desk": {
       "enabled": true,
@@ -479,9 +251,7 @@
     "freeDeliveryProducts": [
       1765137505304,
       1765145035052,
-      1765145814607,
-      1789476986031,
-      1789581423689
+      1765145814607
     ]
   },
   "DISCOUNTS": {
@@ -757,6 +527,7 @@
       }
     }
   },
+  "COMMUNES_SOURCE": "https://raw.githubusercontent.com/DZBuild-com/dzship/main/data/communes.json",
   "POINTS_SYSTEM": {
     "currentPoints": 1000,
     "remainingDays": 30,
